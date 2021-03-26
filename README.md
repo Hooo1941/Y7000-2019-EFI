@@ -1,5 +1,7 @@
 # macOS Big Sur for Lenovo Y7000 2019 PG0 
 
+Banned Samsung PM981 SSD。
+
 安装请参考[xiaoMGitHub/LEGION_Y7000Series_Hackintosh](https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh)
 
 ## Configuration
